@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Computer Canvas
+<<<<<<< Updated upstream
+=======
+  - Tooltip
+  - Cursor Display
+  - Living Room Canvas
+  - Computer Room Canvas
+  - Pop Up
+  - Left Sounds
+>>>>>>> Stashed changes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3670236819
+    locked: 0
+  - name: Glow Layer
+    uniqueID: 3766765161
+    locked: 0
+  - name: Foreground
+    uniqueID: 1069007639
+    locked: 0
+  - name: Button Overlay
+    uniqueID: 906482977
+    locked: 0
+<<<<<<< Updated upstream
+=======
+  - name: Screen Overlay
+    uniqueID: 2209670107
+    locked: 0
+  - name: UI
+    uniqueID: 1526438331
+    locked: 0
+  - name: Scene Transitions
+    uniqueID: 3197999719
+    locked: 0
+>>>>>>> Stashed changes
